@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.b32da4f5.css",
-    "main.js": "/static/js/main.1243e437.js",
-    "index.html": "/index.html",
-    "main.b32da4f5.css.map": "/static/css/main.b32da4f5.css.map",
-    "main.1243e437.js.map": "/static/js/main.1243e437.js.map"
+    "main.css": "/ReactFireDB-Twitter/static/css/main.b32da4f5.css",
+    "main.js": "/ReactFireDB-Twitter/static/js/main.32797c92.js",
+    "index.html": "/ReactFireDB-Twitter/index.html",
+    "main.b32da4f5.css.map": "/ReactFireDB-Twitter/static/css/main.b32da4f5.css.map",
+    "main.32797c92.js.map": "/ReactFireDB-Twitter/static/js/main.32797c92.js.map"
   },
   "entrypoints": [
     "static/css/main.b32da4f5.css",
-    "static/js/main.1243e437.js"
+    "static/js/main.32797c92.js"
   ]
 }
